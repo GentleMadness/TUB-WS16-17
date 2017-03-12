@@ -1,0 +1,5 @@
+Assignment Comment from the examiner:
+85 shift/reduce conflicts, 
+16 reduce/reduce conflicts (-3)
+The submission segfaults due to an incorrect array size calculation (-3)
+sphere.rtsl is not parsed fully (-2)
