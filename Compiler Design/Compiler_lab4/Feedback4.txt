@@ -1,0 +1,5 @@
+Comment from the examiner:
+Diffs on tests 4 and 5. 
+The problem is that a number of code-paths in your phi-node handling return from the function 
+and thus skip the code at the end which insertions instructions into the worklist. 
+If this is fixed, tests 4 and 5 are handled correctly. (-5)
