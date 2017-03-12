@@ -1,5 +1,0 @@
-Comment from the examiner:
-You're using [u|U] in a coupled of places. 
-This means "u" or "|" or "U". So "5|" is recognized as an integer (-1)
-Exponent sign handling is missing in one of the float rules. 
-As such, 5.e-1 is not recognized (-0.5)
