@@ -1,0 +1,3 @@
+Assignment comment from the examiner:
+The use of vectors as a set structure is inefficient and makes the implementation more complicated 
+-- but it works.
